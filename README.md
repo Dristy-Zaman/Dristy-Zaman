@@ -11,6 +11,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dristy-zaman" alt="dristy-zaman" /></a> </p>
 
+-  I work with HTML,CSS, JS, React, MongoBD etc.
+
 - 🌱 I’m currently learning **HTML,CSS,REACT,JS**
 
 - 📫 How to reach me **dristyzaman22@gmail.com**
